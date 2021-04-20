@@ -42,16 +42,16 @@
   
   ## Screenshot
   ### welcome Screen
-  ![welcome](./public/images/welcome-screen.PNG)
+  ![welcome](./public/images/welcome-screen.png)
 
   ### dashboard 
-  ![dashboard](./public/images/dashboard.PNG)
+  ![dashboard](./public/images/dashboard.png)
   
   ### cardio page
-  ![cardio](./public/images/cardio.PNG)
+  ![cardio](./public/images/cardio.png)
 
   ### resistance page
-  ![resistance](./public/images/resistance.PNG)  
+  ![resistance](./public/images/resistance.png)  
 
   ## deployed
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://techblogging.herokuapp.com/)
