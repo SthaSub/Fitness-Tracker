@@ -54,7 +54,7 @@
   ![resistance](./public/images/resistance.png)  
 
   ## deployed
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://techblogging.herokuapp.com/)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://workouts-track.herokuapp.com/)
   
   ## Questions
     if you have questions then please feel free to contact on these addresses,
