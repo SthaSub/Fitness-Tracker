@@ -42,7 +42,7 @@
   
   ## Screenshot
   ### welcome Screen
-  ![welocome](./public/images/welcome-screen.PNG)
+  ![welcome](./public/images/welcome-screen.PNG)
 
   ### dashboard 
   ![dashboard](./public/images/dashboard.PNG)
